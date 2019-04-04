@@ -1,2 +1,2 @@
 # hello-world
-Seattle University homework assignment that completes the hello world tutorial.
+Seattle University homework assignment for CPSC 5051 02 Fundamentals of Software Engineering that completes the hello world tutorial. 
